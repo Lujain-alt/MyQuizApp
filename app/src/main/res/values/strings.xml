@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="DBQuestion1Easy">DB means Data Base?</string>
+    <string name="DBQquestion2Easy">for changing data of table we use the key word MODIFY</string>
+    <string name="DBQquestion3Easy">one to many is a kind of relationship </string>
+    <string name="DBQuestion1Mid">Pramiry Key is used to uniquely identify each record in a table?</string>
+    <string name="DBQquestion2Mid"> validation rule should be entered for a StudentID which should start with the letter "S" is "/*S/*"</string>
+    <string name="DBQquestion3Mid">Statement: A table can have only one Primary Key </string>
+    <string name="DBQuestion1Defficalt">The purpose of forms is to store data</string>
+    <string name="DBQquestion2Defficalt">You can select multiple fields of a table in design view by using the Tap key</string>
+    <string name="DBQquestion3Defficalt">A single set of related data values is referred to as table </string>
+
+    <string name="DMQuestion1Easy"> DM means Data Mainfactory</string>
+    <string name="DMQuestion2Easy">Star schema is a shap of DM</string>
+    <string name="DMQuestion3Easy">Desition tree is an algorithm of data mining</string>
+    <string name="DMQuestion1Mid"> Conducting an online survey is an example of secondary research</string>
+    <string name="DMQuestion2Mid"> E-mail surveys are easy to implement.</string>
+    <string name="DMQuestion3Mid">Data mining is also known as knowledge discovery in databases.</string>
+    <string name="DMQuestion1Defficalt">Competitive Intelligence is a one-time effort to get an accurate snapshot of the competitive landscape</string>
+    <string name="DMQuestion2Defficalt">Business intelligence is a systematic and ongoing monitoring of all internal and external facets of a business, which results in knowledge creation.</string>
+    <string name="DMQuestion3Defficalt">Some of the disadvantages of online secondary research are: the amount of information available, the time and cost of conducting the research</string>
+
+    <string name="HCIQuestion1Easy">HCI means Human Computer intraction</string>
+    <string name="HCIQuestion2Easy">Useability is so important in HCI</string>
+    <string name="HCIQuestion3Easy">Customers must be considered during design</string>
+    <string name="HCIQuestion1Mid">Today many aspects of human-computer interaction are influenced by older technologies</string>
+    <string name="HCIQuestion2Mid">Despite its growth, the video game industry still brings in smaller revenues than the U.S. box office</string>
+    <string name="HCIQuestion3Mid">The video game industry is unlike other media industries in that it has not seen consolidation</string>
+    <string name="HCIQuestion1Defficalt">HCI is based on psychological factors of humans</string>
+    <string name="HCIQuestion2Defficalt">Terminator films uses futuristic HCI</string>
+    <string name="HCIQuestion3Defficalt">Well designed HCIs allow the computer to run faster</string>
+
+    <string name="AndroidQuestion1Easy">We have to download SDK with the application</string>
+    <string name="AndroidQuestion2Easy">The Alpha Build for the programmers </string>
+    <string name="AndroidQuestion3Easy">The activity has only XML file</string>
+    <string name="AndroidQuestion1Mid">OnRestoreInstanceState()used When activity is recreated after it was previously destroyed</string>
+    <string name="AndroidQuestion2Mid">Service is an application component that can perform long-running operations in the background </string>
+    <string name="AndroidQuestion3Mid">Services are basically containers or windows to the user interface</string>
+    <string name="AndroidQuestion1Defficalt">Activities is a component that is used to perform operations on the background. It does not have an UI.</string>
+    <string name="AndroidQuestion2Defficalt">Thread should not be used to separate long running operations from main thread so that performance is improved. </string>
+    <string name="AndroidQuestion3Defficalt">ARMv7 is the most common as it is optimised for battery consumption.</string>
+
+    <string name="dataBase">DB</string>
+    <string name="dataMinnig">DM</string>
+    <string name="humanComputerInaraction">HCI</string>
+    <string name="android">Android</string>
+
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+
+    <string name="previous_btn">PREVIOUS</string>
+    <string name="next_btn">NEXT</string>
+
+    <string name="counter">0</string>
+
+
+</resources>
